@@ -1,0 +1,60 @@
+{
+    "plots": [
+      {
+        "id": 1,
+        "plotNumber": 101,
+        "blockNumber": 5,
+        "totalArea": 1000,
+        "builtArea": 750,
+        "plotStatus": "AVAILABLE",
+        "plotType": "RESIDENTIAL",
+        "isActive": true,
+        "areaOverTotal": 0.15
+      },
+      {
+        "id": 2,
+        "plotNumber": 102,
+        "blockNumber": 6,
+        "totalArea": 1500,
+        "builtArea": 0,
+        "plotStatus": "SOLD",
+        "plotType": "COMMERCIAL",
+        "isActive": true,
+        "areaOverTotal": 0.20
+      },
+      {
+        "id": 3,
+        "plotNumber": 103,
+        "blockNumber": 7,
+        "totalArea": 800,
+        "builtArea": 600,
+        "plotStatus": "AVAILABLE",
+        "plotType": "RESIDENTIAL",
+        "isActive": false,
+        "areaOverTotal": 0.10
+      },
+      {
+        "id": 4,
+        "plotNumber": 104,
+        "blockNumber": 8,
+        "totalArea": 1200,
+        "builtArea": 800,
+        "plotStatus": "AVAILABLE",
+        "plotType": "RESIDENTIAL",
+        "isActive": true,
+        "areaOverTotal": 0.18
+      },
+      {
+        "id": 5,
+        "plotNumber": 105,
+        "blockNumber": 9,
+        "totalArea": 2000,
+        "builtArea": 1500,
+        "plotStatus": "SOLD",
+        "plotType": "COMMERCIAL",
+        "isActive": true,
+        "areaOverTotal": 0.25
+      }
+    ]
+  }
+  
