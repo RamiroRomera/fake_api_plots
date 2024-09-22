@@ -1,5 +1,3 @@
-# Project Title
-
 ## Fake API
 
 This project uses a fake API to manage plot data.
