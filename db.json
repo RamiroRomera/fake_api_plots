@@ -2,58 +2,53 @@
     "plots": [
       {
         "id": 1,
-        "plotNumber": 101,
-        "blockNumber": 5,
-        "totalArea": 1000,
-        "builtArea": 750,
-        "plotStatus": "AVAILABLE",
-        "plotType": "RESIDENTIAL",
-        "isActive": true,
-        "areaOverTotal": 0.15
+        "plot_number": 101,
+        "block_number": 5,
+        "total_area": 1000,
+        "built_area": 750,
+        "plot_status": "AVAILABLE",
+        "plot_type": "RESIDENTIAL",
+        "percentage_for_expense": 0.15
       },
       {
         "id": 2,
-        "plotNumber": 102,
-        "blockNumber": 6,
-        "totalArea": 1500,
-        "builtArea": 0,
-        "plotStatus": "SOLD",
-        "plotType": "COMMERCIAL",
-        "isActive": true,
-        "areaOverTotal": 0.20
+        "plot_number": 102,
+        "block_number": 6,
+        "total_area": 1500,
+        "built_area": 0,
+        "plot_status": "SOLD",
+        "plot_type": "COMMERCIAL",
+        "percentage_for_expense": 0.20
       },
       {
         "id": 3,
-        "plotNumber": 103,
-        "blockNumber": 7,
-        "totalArea": 800,
-        "builtArea": 600,
-        "plotStatus": "AVAILABLE",
-        "plotType": "RESIDENTIAL",
-        "isActive": false,
-        "areaOverTotal": 0.10
+        "plot_number": 103,
+        "block_number": 7,
+        "total_area": 800,
+        "built_area": 600,
+        "plot_status": "AVAILABLE",
+        "plot_type": "RESIDENTIAL",
+        "percentage_for_expense": 0.10
       },
       {
         "id": 4,
-        "plotNumber": 104,
-        "blockNumber": 8,
-        "totalArea": 1200,
-        "builtArea": 800,
-        "plotStatus": "AVAILABLE",
-        "plotType": "RESIDENTIAL",
-        "isActive": true,
-        "areaOverTotal": 0.18
+        "plot_number": 104,
+        "block_number": 8,
+        "total_area": 1200,
+        "built_area": 800,
+        "plot_status": "AVAILABLE",
+        "plot_type": "RESIDENTIAL",
+        "percentage_for_expense": 0.18
       },
       {
         "id": 5,
-        "plotNumber": 105,
-        "blockNumber": 9,
-        "totalArea": 2000,
-        "builtArea": 1500,
-        "plotStatus": "SOLD",
-        "plotType": "COMMERCIAL",
-        "isActive": true,
-        "areaOverTotal": 0.25
+        "plot_number": 105,
+        "block_number": 9,
+        "total_area": 2000,
+        "built_area": 1500,
+        "plot_status": "SOLD",
+        "plot_type": "COMMERCIAL",
+        "percentage_for_expense": 0.25
       }
     ]
   }
